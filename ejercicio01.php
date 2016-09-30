@@ -1,12 +1,6 @@
-<?php
-/*
-echo "<pre>";
-//var_dump ($_SERVER);
-echo "</pre>";
+<?php 
 
-echo "El método de la petición es ". $_SERVER["REQUEST_METHOD"];
-*/
-$array = new Array();
+$array = array();
 
 array_push($array,"uno");
 array_push($array,"dos");
